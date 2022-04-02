@@ -27,3 +27,7 @@ Agregar remotos
 
 Eliminar remotos
 `git remote EDgit`
+
+### Creando Etiquetas
+
+Es necesario entender que las etiquetas o releases solo deben ser creado a partir de la rama main como buena práctica.
